@@ -5,7 +5,7 @@
 Bitcoinと同様
 
 ## Monacoin Explorer
-[mona-coin](https://chaintools.mona-coin.de/)
+[mona-coin](https://chaintools.mona-coin.de/)  
 [prohashing.com Monacoin](https://prohashing.com/explorer/Monacoin/)
 
 ## Build method
